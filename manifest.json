@@ -1,0 +1,11 @@
+{
+    "name": "GDPS",
+    "platform": "egg",
+    "guid": "1c4a8629-3fe7-473f-ae87-699a87d954c7",
+    "version": "0.1",
+    "description": "GDPS",
+    "author": "Lucas Thoelke",
+    "email": "lucas@thoelke.xyz",
+    "url": "http://kutlucas.nl",
+    "script": "plugin.py"
+}
